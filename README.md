@@ -1,3 +1,3 @@
-# Insertion Sort
-# Merge Sort
-# Binary Search Tree
+## Insertion Sort
+## Merge Sort
+## Binary Search Tree
